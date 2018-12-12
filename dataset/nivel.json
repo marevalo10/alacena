@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "nombre": "Vacio",
+        "color": "#FF0000"
+    },    
+    {
+        "id": 2,
+        "nombre": "Bajo",
+        "color": "#FFA500"
+    },    
+    {
+        "id": 3,
+        "nombre": "Medio",
+        "color": "#FFFF00"
+    },    
+    {
+        "id": 4,
+        "nombre": "Alto",
+        "color": "#00FF00"
+    },    
+    {
+        "id": 5,
+        "nombre": "Lleno",
+        "color": "#0000FF"
+    }
+]
